@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/erugged93/wedding-front-end#readme",
   "dependencies": {
+    "browserify": "^15.2.0",
+    "cors": "^2.8.4",
     "jquery": "^3.3.1"
   }
 }
